@@ -27,6 +27,8 @@ Sou natural de Marília-SP e atualmente curso Ciência da Computação na Unimar
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 </p>
+
+<br>
 ---
 
 ### 📊 Estatísticas
