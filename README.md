@@ -29,9 +29,6 @@ Sou natural de Marília-SP e atualmente curso Ciência da Computação na Unimar
 </p>
 
 <br>
-<br>
----
-<br>
 
 ### 📊 Estatísticas
 
@@ -43,7 +40,7 @@ Sou natural de Marília-SP e atualmente curso Ciência da Computação na Unimar
   />
 </div>
 
----
+<br>
 
 ### 🌐 Redes Sociais
 
