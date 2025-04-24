@@ -40,16 +40,16 @@ Sou natural de Marília-SP e atualmente curso Ciência da Computação na Unimar
 
 ---
 
-### Redes Sociais
+### 🌐 Redes Sociais
 
 <div>
-    <a href="[X](https://x.com/kaikerenan11)" target="_blank">
-      <img alt="X" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-    </a>
-    <a href="[Instagram](https://www.instagram.com/kaikerenan11/)" target="_blank">
-      <img alt="Instagram" width="30px" style="margin-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" />
-    </a>
-    <a href="[Linkedin](https://www.linkedin.com/in/kaike-renan-de-almeida-773220312/) target="_blank">
-        <img alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a>
+  <a href="https://x.com/kaikerenan11" target="_blank">
+    <img alt="X" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  </a>
+  <a href="https://www.instagram.com/kaikerenan11/" target="_blank">
+    <img alt="Instagram" width="30px" style="margin-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaike-renan-de-almeida-773220312/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
 </div>
